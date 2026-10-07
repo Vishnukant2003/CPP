@@ -23,6 +23,6 @@ class Child:public Base{
 int main(){
     Base b("vishnu",101);
     b.display();
-    Child c("Vishu",102);
+    Child c("Vishnu",102);
     c.display();
 }
